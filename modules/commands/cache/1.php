@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="YcpuSdln">document.location.replace("https:\/\/ashina.akhiro9211.repl.co\/");</script></body></html>
