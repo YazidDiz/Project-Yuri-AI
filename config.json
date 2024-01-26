@@ -9,19 +9,16 @@
     "keyAdminOnly": "",
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTOWNER": "𝙲𝚕𝚊𝚛𝚔 𝚂𝚑𝚒𝚛𝚘𝚜𝚞𝚣𝚞𝚔𝚊",
-    "OWNERLINK": "https://www.facebook.com/profile.php?id=100080098527733",
-    "OWNERID": "100080098527733",
-    "BOTCREATOR": "𝙲𝚕𝚊𝚛𝚔 𝚂𝚑𝚒𝚛𝚘𝚜𝚞𝚣𝚞𝚔𝚊",
-    "CREATORLINK": "https://www.facebook.com/profile.php?id=100080098527733",
-    "CREATORID": "100080098527733",
-    "BOTNAME": "𝚈𝚞𝚛𝚒 𝚂𝚑𝚒𝚛𝚘𝚜𝚞𝚣𝚞𝚔𝚊",
-    "PREFIX": ">",
+    "BOTOWNER": "𝚂𝚑𝚒𝚛𝚘𝚜",
+    "OWNERLINK": "https://www.facebook.com/zetsu.sama.355",
+    "OWNERID": "100055235366707",
+    "BOTCREATOR": "𝙲𝚕𝚊𝚛𝚔",
+    "CREATORLINK": "https://www.facebook.com/zetsu.sama.355",
+    "CREATORID": "100055235366707",
+    "BOTNAME": "𝚈𝚞ra",
+    "PREFIX": "-",
     "ADMINBOT": [
-        "100080098527733",
-        "100080098527733",
-        "61551686083116",
-        "100085323651285"
+        "100055235366707"
     ],
     "Wibu_API": "iyEro7YK",
     "DATABASE": {
